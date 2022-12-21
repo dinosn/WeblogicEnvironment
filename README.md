@@ -21,3 +21,6 @@ jdk-7u21-linux-x64.tar.gz  jdk-8u121-linux-x64.tar.gz
 (root💀icestorm)-[~/tools/WeblogicEnvironment]# ls weblogics 
 fmw_12.2.1.3.0_wls.jar  wls1036_generic.jar
 ````
+
+# Login
+System will be reachable at :7001/console/login/LoginForm.jsp , with credentials `weblogic / qaxateam01`
